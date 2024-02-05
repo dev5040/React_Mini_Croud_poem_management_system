@@ -1,0 +1,84 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    background-color: gainsboro;
+    
+}
+.manubar{
+    position: sticky;
+    top: 0;
+    z-index: 111111;
+    background-color:#e3cb88;
+    border: 1px solid blue;
+}
+
+
+.h1
+{
+    color: blue;
+    font-size: 60px;
+    
+    margin-left: 160px;
+
+}
+
+.link{
+
+    margin-inline: 50px;
+    color:#302d06;
+    font-size: 25px;
+    text-decoration: none;
+    
+
+}
+
+Input{
+
+    border-radius: 20px;
+    text-align: center;
+    font-size: 20px;
+    background-color: #bcf538;
+    color: red;
+}
+button{
+
+    background-color: blue;
+    border-radius: 30px;
+    width: 65px;
+    color: white;
+}
+
+.tab
+{
+
+    width: 400px;
+    height: 300px;
+    
+}
+
+.box{
+
+    margin-top: 10px;
+    display: flex;
+    border: 1px solid black;
+    padding: 15px;
+    
+
+}
+
+.box1
+{
+    
+    color: blue;
+    text-align: center;
+}
+
+
+
+
